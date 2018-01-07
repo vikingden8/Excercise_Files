@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+
 def main():
     a, b = 0, 1
     print(a, b)
@@ -11,4 +12,5 @@ def main():
     b = [1, 2, '34', 'text']
     print(type(b), b)
 
-if __name__ == '__main__': main()
+if __name__ == '__main__':
+    main()
