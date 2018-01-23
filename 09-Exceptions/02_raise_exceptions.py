@@ -18,5 +18,6 @@ def readfile(filename):
     else:
         raise ValueError('filename must be end with .txt')
 
+
 if __name__ == '__main__':
     main()
